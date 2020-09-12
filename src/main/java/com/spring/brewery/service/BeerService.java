@@ -1,7 +1,6 @@
 package com.spring.brewery.service;
 
 import com.spring.brewery.model.BeerDto;
-import org.springframework.http.ResponseEntity;
 
 import java.util.UUID;
 
